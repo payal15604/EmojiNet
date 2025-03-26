@@ -42,6 +42,6 @@ EmojiNet is a **custom CNN model** that predicts:
 
 ### 1️⃣ Clone the Repo  
 ```bash
-git clone https://github.com/yourusername/emojinet.git
+git clone https://github.com/payal15604/EmojiNet.git
 cd emojinet
 
